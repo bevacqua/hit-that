@@ -31,8 +31,13 @@ Options:
 
 ![Pony Foo rendered as an image in terminal][1]
 
+# Use it as a CLI banner!
+
+![Google.com banner][2]
+
 # License
 
 MIT
 
 [1]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/ponyfoo.png
+[2]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/google.png
