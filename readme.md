@@ -5,7 +5,7 @@
 # Installation
 
 ```bash
-npm install -g
+npm install -g hit-that
 ```
 
 # Usage
