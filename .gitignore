@@ -1,0 +1,13 @@
+.bin
+.DS_Store
+.env.json
+.job.scheduler
+.pid
+deploy/env/
+deploy/keys/
+deploy/log/
+deploy/mailtube/package.json
+node_modules/
+npm-debug.log
+tmp/
+Thumbs.db

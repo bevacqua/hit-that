@@ -1,0 +1,11 @@
+Usage:
+
+ht <url> --width [width] --height [height] --cols [cols]
+
+Options:
+
+  -w --width   Viewport width in pixels
+  -h --height  Viewport height in pixels
+  -c --cols    Terminal columns to use
+  -h --help    Render this information
+  -v --version Render version information
