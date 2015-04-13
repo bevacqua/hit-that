@@ -9,5 +9,4 @@ var usage = fs.readFileSync(__dirname + '/usage.txt');
 var cli = meow({ help: usage });
 var url = cli.input.shift();
 var options = cli.flags;
-options.dest = process.stdout;
 hitThat(url, options);

@@ -8,7 +8,24 @@
 npm install -g hit-that
 ```
 
-# Usage
+# API
+
+_Hit That_ comes with a simple API where it exports just a function `hitThat(url, options?)`. The first argument is the `url` you intend to render. The second argument is an optional configuration object.
+
+- `width=1024` is the viewport width in pixels that we'll use for the screenshot
+- `height=768` is the viewport height in pixels that we'll use for the screenshot
+- `cols=80` is the amount of columns we'll allocate to the terminal representation
+- `dest=process.stdout` is the destination stream you want to pipe the results to.
+
+```js
+var hitThat = require('hit-that');
+
+hitThat('http://ponyfoo.com');
+```
+
+# CLI
+
+There's a command-line interface as well.
 
 ```bash
 ht ponyfoo.com
