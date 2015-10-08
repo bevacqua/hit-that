@@ -10,8 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "meow": "3.4.2",
-    "minimist": "^1.1.1",
+    "minimist": "1.1.1",
     "picture-tube": "0.0.4",
-    "webshot": "^0.15.4"
+    "webshot": "0.15.4"
   }
 }
