@@ -1,6 +1,6 @@
 {
   "name": "hit-that",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hit an HTML page and render it in your terminal",
   "main": "index.js",
   "bin": {
