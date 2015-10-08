@@ -5,7 +5,7 @@
 var fs = require('fs');
 var meow = require('meow');
 var hitThat = require('./');
-var usage = fs.readFileSync(__dirname + '/usage.txt');
+var usage = fs.readFileSync(__dirname + '/usage.txt', 'utf8');
 var cli = meow(usage);
 var url = cli.input.shift();
 var options = cli.flags;
