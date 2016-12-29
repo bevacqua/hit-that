@@ -35,7 +35,7 @@ function hitThat (url, options) {
       fs.createReadStream(name).pipe(tube).on('end', remove);
     }
     function remove () {
-     fs.unlink(name);
+     fs.unlinkSync(name);
     }
   }
 }
