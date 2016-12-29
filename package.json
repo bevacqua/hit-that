@@ -1,6 +1,6 @@
 {
   "name": "hit-that",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Hit an HTML page and render it in your terminal",
   "main": "index.js",
   "bin": {
@@ -9,9 +9,9 @@
   "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
   "license": "MIT",
   "dependencies": {
-    "meow": "3.4.2",
-    "minimist": "1.1.1",
-    "picture-tube": "0.0.4",
-    "webshot": "0.15.4"
+    "meow": "3.7.0",
+    "minimist": "1.2.0",
+    "picture-tube": "1.0.0",
+    "webshot": "0.18.0"
   }
 }
