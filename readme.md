@@ -46,15 +46,17 @@ Options:
 ```
 ### Example
 
-![Pony Foo rendered as an image in terminal][1]
+![Pony Foo rendered as an image in terminal][pf2016]
+
+![Pony Foo rendered as an image in terminal][pf2015]
 
 ### Use it as a CLI banner!
 
-![Google.com banner][2]
+![Google.com banner][goog]
 
 ### You'll get the best results when reducing the viewport width
 
-![Reduced viewport width at emberjs.com][3]
+![Reduced viewport width at emberjs.com][ember]
 
 <sub>_(That site better be responsive!)_</sub>
 
@@ -62,6 +64,7 @@ Options:
 
 MIT
 
-[1]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/ponyfoo.png
-[2]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/google.png
-[3]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/emberjs.png
+[goog]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/google.png
+[ember]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/emberjs.png
+[pf2015]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/ponyfoo-2015.png
+[pf2016]: https://raw.githubusercontent.com/bevacqua/hit-that/master/resources/ponyfoo-2016.png
